@@ -43,5 +43,5 @@ The workflow includes:
 
 ## 💡 About
 
-Developed by **Patricia Munginga** — Graduate Engineer passionate about applying **AI and data science** to real-world healthcare challenges.  
+Developed by **Patricia Munginga** — Graduate Engineer passionate about applying **AI and Rocbotics** to real-world healthcare challenges.  
 Part of my mission to explore how **AI can advance early disease detection and diagnosis**.  
