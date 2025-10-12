@@ -36,8 +36,8 @@ The workflow includes:
 
 | File | Description |
 |------|--------------|
-| `ENG4200_CW1_<studentID>.ipynb` | Full experiment workflow — data prep, training, evaluation, and visualisation. |
-| `ENG4200_CW1_<studentID>.pdf` | Coursework report summarising findings and analysis. |
+| `ENG4200_CW1_3033388M.ipynb` | Full experiment workflow — data prep, training, evaluation, and visualisation. |
+| `ENG4200_CW1_3033388M.pdf` | Coursework report summarising findings and analysis. |
 
 ---
 
